@@ -1,0 +1,29 @@
+{
+  "name": "drum-game",
+  "version": "1.0.0",
+  "description": "drum-game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azim-js/DRUM-GAME.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "azim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azim-js/DRUM-GAME/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "14.x"
+  },
+  "homepage": "https://github.com/Azim-js/DRUM-GAME#readme"
+}
